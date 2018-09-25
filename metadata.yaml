@@ -1,11 +1,16 @@
 _repo: Tent-life-with-English-Gipsies-in-Norway_57942
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57942-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Hubert
     gutenberg_agent_id: '49697'
     url: http://www.gutenberg.org/2009/agents/49697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57942#Tent-life-with-English-Gipsies-in-Norway
 gutenberg_issued: '2018-09-21'
 gutenberg_type: Text
 identifiers:
